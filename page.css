@@ -1,0 +1,45 @@
+body {
+    background-image: url(./Startup\ Page.jpg);
+    /* no-repeat center center fixed; */
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0%;
+    padding: 0%;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #e2dbdb;
+}
+
+hr {
+    width: 50%; margin: 0 25% 0 25%;
+}
+
+.buffer {
+    height:15rem;
+}
+
+
+.btn {
+    font-weight: 700;
+    border-radius: 300px;
+    text-transform: uppercase;
+}
+
+.btn-primary {
+    background-color: rgba(0, 100, 100, 1.5);
+}
+
+.btn-primary:hover {
+    border-width: 4px;
+}
+
+
+
+.btn-xs {
+    padding: 1rem 1rem;
+}
